@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.listContainer {
+  display: flex;
+  list-style-type: none;
+}
+
+.lists {
+  margin-right: 10px;
+}
